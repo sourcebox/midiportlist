@@ -11,7 +11,7 @@ categories = ["command-line-utilities", "multimedia"]
 keywords = ["midi", "terminal"]
 
 [dependencies]
-midir = "0.11.0"
+midir = { version = "0.11.0", features = ["winrt"] }
 
 [lints.rust]
 missing_docs = "warn"
