@@ -1,6 +1,6 @@
 # midiportlist
 
-Small cross.platform CLI tool to list all MIDI ports available to the OS.
+Small cross-platform CLI tool to list all MIDI ports available to the OS.
 
 ## License
 
